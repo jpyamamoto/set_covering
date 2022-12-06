@@ -7,8 +7,8 @@ Approximation Algorithm for the Set Covering problem.
 The project was written in Rust 1.63. Make sure to have the `rustc` compiler and `cargo` package manager installed.
 
 ```bash
-  rustc --version
-  cargo --version
+rustc --version
+cargo --version
 ```
 
 Clone the project
@@ -20,7 +20,7 @@ git clone https://github.com/jpyamamoto/set_covering
 Go to the project directory
 
 ```bash
-  cd set_covering
+cd set_covering
 ```
 
 Build the project
